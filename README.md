@@ -20,7 +20,7 @@ See [ECON5166-期末專案的管理與交付規範](https://docs.google.com/docu
 | ---| --- | --- | --- |
 | 陳裔萱 | B12303025 | yixuan0803 | PM |
 | 方珮潔 | B12303066 | Jessica-Fang-1005 | DE |
-| 黃書佑 | B11303062 | xuan117 | DE |
+| 黃書佑 | B11303062 | sofiahuang2225-prog | DE |
 | 郭伊軒 | B12303033 | xuan117 | DA |
 | 林宜萱 | B12303010 | yisyuan-lin | DA |
 
