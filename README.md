@@ -26,7 +26,7 @@ See [ECON5166-期末專案的管理與交付規範](https://docs.google.com/docu
 
 ## Link to Meeting Note 
 [Link](url)
-Please create a Google Doc for meeting notes for your project. Please create a tab (named by date YYYYMMDD) for each meeting. [Meeting note template](https://docs.google.com/document/d/1vp1DItfbCN4shOsO1ZbVJf6z8bKySTxFDYsEbWRH10E/).
+Please create a Google Doc for meeting notes for your project. Please create a tab (named by date YYYYMMDD) for each meeting. [Meeting note template](https://docs.google.com/document/d/1XoDAnLYhR67hXppTckHqPSv1H_MTv4kXVqK8BTIdKeY/edit?usp=sharing).
 
 ## Notebook Templates
 the folder `notebook-templates` contains the jupyter notebooks and R markdown examples for what you need to do in your research project folder.
