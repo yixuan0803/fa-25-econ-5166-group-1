@@ -14,9 +14,7 @@ data/
 │   │   ├── gameID_reviews.csv
 │   │   └── gameID_dlcs.csv
 │   │ 
-│   ├── game information/
-│   │   ├── 582010_information.csv
-│   │   └── ...
+│   ├── game information.csv
 │   │
 │   ├── game followers/
 │   │   ├── 582010_followers.csv
