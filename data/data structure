@@ -1,0 +1,48 @@
+data/
+│
+├── code/                  # 程式碼
+│   └── ...                # （目的）
+│
+├── raw/                   # 原始資料
+│   ├── .gitkeep
+│   │
+│   ├── templates/
+│   │   ├── gameID_information.csv
+│   │   ├── gameID_followers.csv
+│   │   ├── gameID_players.csv
+│   │   ├── gameID_prices.csv
+│   │   ├── gameID_reviews.csv
+│   │   └── gameID_dlcs.csv
+│   │ 
+│   ├── game information/
+│   │   ├── 582010_information.csv
+│   │   └── ...
+│   │
+│   ├── game followers/
+│   │   ├── 582010_followers.csv
+│   │   └── ...
+│   │
+│   ├── game players/
+│   │   ├── 582010_players.csv
+│   │   └── ...
+│   │
+│   ├── game prices/
+│   │   ├── 582010_prices.csv
+│   │   └── ...
+│   │
+│   ├── game reviews/
+│   │   ├── 582010_reviews.csv
+│   │   └── ...
+│   │
+│   ├── game dlcs/
+│   │   ├── 582010_dlcs.csv
+│   │   └── ...
+│ 
+├── processed/             # 處理過後的數據
+│   ├── templates/         
+│   │   └── gameID_processed.csv
+│   │   
+│   ├── 582010_processed.csv
+│   └── ...
+│
+└── temp/                  
