@@ -7,40 +7,40 @@ data/
 │   ├── .gitkeep
 │   │
 │   ├── templates/
-│   │   ├── gameID_information.csv
-│   │   ├── gameID_followers.csv
-│   │   ├── gameID_players.csv
-│   │   ├── gameID_prices.csv
-│   │   ├── gameID_reviews.csv
-│   │   └── gameID_dlcs.csv
+│   │   ├── information_gameID.csv
+│   │   ├── followers_gameID.csv
+│   │   ├── players_gameID.csv
+│   │   ├── prices_gameID.csv
+│   │   ├── reviews_gameID.csv
+│   │   └── dlcs_gameID.csv
 │   │ 
 │   ├── game information.csv
 │   │
 │   ├── game followers/
-│   │   ├── 582010_followers.csv
+│   │   ├── followers_582010.csv
 │   │   └── ...
 │   │
 │   ├── game players/
-│   │   ├── 582010_players.csv
+│   │   ├── players_582010.csv
 │   │   └── ...
 │   │
 │   ├── game prices/
-│   │   ├── 582010_prices.csv
+│   │   ├── prices_582010.csv
 │   │   └── ...
 │   │
 │   ├── game reviews/
-│   │   ├── 582010_reviews.csv
+│   │   ├── reviews_582010.csv
 │   │   └── ...
 │   │
 │   ├── game dlcs/
-│   │   ├── 582010_dlcs.csv
+│   │   ├── dlcs_582010.csv
 │   │   └── ...
 │ 
 ├── processed/             # 處理過後的數據
 │   ├── templates/         
-│   │   └── gameID_processed.csv
+│   │   └── processed_gameID.csv
 │   │   
-│   ├── 582010_processed.csv
+│   ├── processed_582010.csv
 │   └── ...
 │
 └── temp/                  
