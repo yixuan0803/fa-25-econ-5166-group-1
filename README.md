@@ -41,3 +41,17 @@ After the poster presentation, please highlight each member's key contribution t
 **`<NAME>`**'s contribution
 - `<Contribution >` [see commit](url)
 - `<Contribution >` [see commit](url)
+
+**`<黃書佑>`**'s contribution
+- `<下載原始資料集>` [see commit](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9413ac83eeb4ce6bb9981243bd2060736bf3b14c)
+- `<初步資料清理與合併資料集>` [see commit](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/49d5d9eb807298c5114e1a08ca22ded197d306dd)
+- `<抓取續作及 DLC 資料>` [see commit](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/f98fff6d506363010d97763151b89e470b59350f)
+- `<完成三個特殊遊戲的 finding>` [see commit](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9a76e8243735561c937c5b6ab1d6ca0381346718)
+
+**`<NAME>`**'s contribution
+- `<Contribution >` [see commit](url)
+- `<Contribution >` [see commit](url)
+
+**`<NAME>`**'s contribution
+- `<Contribution >` [see commit](url)
+- `<Contribution >` [see commit](url)
