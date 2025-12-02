@@ -35,11 +35,15 @@ the folder `notebook-templates` contains the jupyter notebooks and R markdown ex
 After the poster presentation, please highlight each member's key contribution to the project. Please include the link to specific commits (e.g., a page like [this](https://github.com/yu-chang-chen/FA25-ECON-5166-Group-Project-Template/commit/29e276672f667af5cd7b198871033748fc3ec3ee)) for my reference.
 
 **`<陳裔萱>`**'s contribution
-- `<建立Github >` [9e43367](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9e43367c26a41d360c0a538512a02694cc0b517f)
+- `<建立 Github >` [9e43367](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9e43367c26a41d360c0a538512a02694cc0b517f)
 
-**`<NAME>`**'s contribution
-- `<Contribution >` [see commit](url)
-- `<Contribution >` [see commit](url)
+**`<方珮潔>`**'s contribution
+- `<建立資料架構>` [5f821d2](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/5f821d22498def982a6c35aca390d7171341609e)
+- `<折扣時機的資料處理與新增進階欄位>` [9eafed8](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9eafed83571f3bf9536a1363e307dca5387def71)
+- `<折扣幅度的資料處理與新增進階欄位>` [ce30d35](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/ce30d35f942da39dd94e348e7b2846faea6879da)
+- `<完成折扣時機報告>` [9cebc1a](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9cebc1a12a9896b0727df13a6e1365167c0580a4#diff-a4f2849746c78e93bc93969d7a82079cf3dc900e759e6551307bcc96115edda3)
+- `<完成折扣幅度報告>` [0f9ad51](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/0f9ad512e6f149be58be7016a8a2d64021e9117b)
+- `<折扣時機變數滯後天數選擇>` [ab49f6c](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/ab49f6c32b26432e11e60dbdbc0da95f895e8b5f)
 
 **`<黃書佑>`**'s contribution
 - `<下載原始資料集>` [9413ac8](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9413ac83eeb4ce6bb9981243bd2060736bf3b14c)
