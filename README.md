@@ -25,7 +25,7 @@ See [ECON5166-期末專案的管理與交付規範](https://docs.google.com/docu
 | 林宜萱 | B12303010 | yisyuan-lin | DA |
 
 ## Link to Meeting Note 
-[Link](https://docs.google.com/document/d/1XoDAnLYhR67hXppTckHqPSv1H_MTv4kXVqK8BTIdKeY/edit?usp=sharing)
+[Link](https://docs.google.com/document/d/1GoecoMbNSvfevGG7KhDZ4W1Ynew2v4-I7Oc9NHbav8g/edit?usp=sharing)
 Please create a Google Doc for meeting notes for your project. Please create a tab (named by date YYYYMMDD) for each meeting. [Meeting note template](https://docs.google.com/document/d/1vp1DItfbCN4shOsO1ZbVJf6z8bKySTxFDYsEbWRH10E/).
 
 ## Notebook Templates
@@ -34,9 +34,8 @@ the folder `notebook-templates` contains the jupyter notebooks and R markdown ex
 ## Each Member's Key Contribution
 After the poster presentation, please highlight each member's key contribution to the project. Please include the link to specific commits (e.g., a page like [this](https://github.com/yu-chang-chen/FA25-ECON-5166-Group-Project-Template/commit/29e276672f667af5cd7b198871033748fc3ec3ee)) for my reference.
 
-**`<NAME>`**'s contribution
-- `<Contribution >` [see commit](url)
-- `<Contribution >` [see commit](url)
+**`<陳裔萱>`**'s contribution
+- `<建立Github >` [see commit](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9e43367c26a41d360c0a538512a02694cc0b517f)
 
 **`<NAME>`**'s contribution
 - `<Contribution >` [see commit](url)
