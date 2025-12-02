@@ -48,10 +48,12 @@ After the poster presentation, please highlight each member's key contribution t
 - `<抓取續作及 DLC 資料>` [see commit](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/f98fff6d506363010d97763151b89e470b59350f)
 - `<完成三個特殊遊戲的 finding>` [see commit](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9a76e8243735561c937c5b6ab1d6ca0381346718)
 
-**`<NAME>`**'s contribution
-- `<Contribution >` [see commit](url)
-- `<Contribution >` [see commit](url)
+**`<郭伊軒>`**'s contribution
+- `<篩選遊戲 >` [see commit](url)
+- `<訓練模型 >` [9252133b6ced8a03b0d51807c49c6875b0dd1a62](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/9252133b6ced8a03b0d51807c49c6875b0dd1a62)
+- `<資料視覺化 >` [58306bbbcc79d6163c3f863faa4bdaf814f1db70](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/58306bbbcc79d6163c3f863faa4bdaf814f1db70)
 
-**`<NAME>`**'s contribution
-- `<Contribution >` [see commit](url)
-- `<Contribution >` [see commit](url)
+**`<林宜萱>`**'s contribution
+- `<篩選遊戲 >` [see commit](url)
+- `<訓練模型 >` [e83b5a248c9f13d171f35fa470f8edf91076d94d](https://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/e83b5a248c9f13d171f35fa470f8edf91076d94d)
+- `<資料視覺化 >` [59fd245c5a04fed1f120a330d87e22365674650d](http://github.com/yixuan0803/fa-25-econ-5166-group-1/commit/59fd245c5a04fed1f120a330d87e22365674650d)
