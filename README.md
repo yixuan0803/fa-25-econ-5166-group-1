@@ -46,7 +46,7 @@ After the poster presentation, please highlight each member's key contribution t
 - `<下載原始資料集>` [see commit](c3285079de583d1fa52b2bb8e5e84964277354bd)
 - `<初步資料清理與合併資料集>` [see commit](49d5d9eb807298c5114e1a08ca22ded197d306dd)
 - `<抓取續作及 DLC 資料>` [see commit](f98fff6d506363010d97763151b89e470b59350f)
-- `<完成三個特殊遊戲的 finding>` [see commit](9a76e8243735561c937c5b6ab1d6ca0381346718)
+- `<完成三個特殊遊戲的 finding>` [see commit](9a76e82)
 
 **`<NAME>`**'s contribution
 - `<Contribution >` [see commit](url)
